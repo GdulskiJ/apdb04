@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\gduls\AppData\Local\JetBrains\Rider2023.3\resharper-host\temp\Rider\vAny\CoverageData\_RefactoringExample.1499134624\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=72364726_002D3116_002D4019_002DA054_002D6E9AF98BB046/@EntryIndexedValue">LegacyApp.Tests</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03b781fb_002D631f_002D4c44_002Db203_002D0b107ac186f7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddUser_Should_Return_False_Whan_Normal_Client_With_No_Credit_Limit" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=73c00be8_002D9240_002D4871_002D8553_002Df4834e9da58c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddUser_Should_Return_False_Whan_FirstName_Is_Missing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_False_Whan_FirstName_Is_Missing&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_False_Whan_Emain_Is_Incorect&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Thorw_ArgumentException_When_User_Client_Doesnt_Exist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_False_Whan_User_Is_Younger_Than_21_Yrs&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_True_Whan_Very_Important_Client&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_True_Whan_Important_Client&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_False_Whan_Limit_Below_500&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_True_Whan_Normal_Client&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Thorw_ArgumentException_When_Client_Doesnt_Have_CreditLimit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_True_Whan_Normal_Client_With_No_Credit_Limit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D581FAC6-E4FA-438C-8A59-85F6248786F4::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_False_Whan_Normal_Client_With_No_Credit_Limit&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
